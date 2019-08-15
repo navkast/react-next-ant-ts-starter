@@ -19,6 +19,7 @@
     "@types/react": "^16.8.23",
     "@types/react-dom": "^16.8.5",
     "@zeit/next-less": "^1.0.1",
+    "tslint-react-hooks": "^2.2.1",
     "typescript": "^3.5.3"
   }
 }
